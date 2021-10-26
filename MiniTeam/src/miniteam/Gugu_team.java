@@ -11,7 +11,15 @@ public class Gugu_team {
 				System.out.print(j * i + "\t");
 			}
 			System.out.println();
-	}
-		//1ºü ¼ö¿¬
+	    }
+		//1ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		
+		int[] arr = {1,2,3,4,5};
+		int sum = 0;
+		for (int i = 0; i < arr.length; i++) {
+			sum += arr[i];
+			System.out.println(sum);
+		}
+		//ì´í•©ê³„
 
 }
