@@ -12,7 +12,7 @@ public class Gugu_team {
 			}
 			System.out.println();
 	    }
-		//1ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		//1ºü ¼ö¿¬
 		
 		int[] arr = {1,2,3,4,5};
 		int sum = 0;
@@ -20,7 +20,7 @@ public class Gugu_team {
 			sum += arr[i];
 			System.out.println(sum);
 		}
-		//ì´í•©ê³„
+		//ÃÑÇÕ°è
 		for (int i = 2; i <= 9; i++) {
 			for (int j = 1; j <= 9; j++) {
 				System.out.print(i + "*" + j + "=" + j * i + "\t");
