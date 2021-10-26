@@ -12,6 +12,7 @@ public class Gugu_team {
 			}
 			System.out.println();
 	}
-		//1ºü ¼ö¿¬
+		//1ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
+	}
 }
