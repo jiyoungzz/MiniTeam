@@ -12,7 +12,7 @@ public class Gugu_team {
 			}
 			System.out.println();
 	    }
-		//1빠 수연
+		//1빠 수연 짝
 		
 		int[] arr = {1,2,3,4,5};
 		int sum = 0;
