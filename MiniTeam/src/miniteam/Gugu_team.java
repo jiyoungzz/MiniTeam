@@ -12,7 +12,7 @@ public class Gugu_team {
 			}
 			System.out.println();
 	}
-		//1�� ����
+		//
 
 	}
 }
